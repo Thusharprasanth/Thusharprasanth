@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate with developers
-- 📫 How to reach me: <a href="thusharprasanth@gmail.com">Mail</a>
+- 📫 How to reach me: thusharprasanth@gmail.com
 
 ### Stats
 <a href="#">
