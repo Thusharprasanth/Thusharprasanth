@@ -1,16 +1,19 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thusharprasanth&label=Views&color=blue&style=plastic" alt="Thusharprasanth" /> </p>
+
 ### Hi there 👋
+### I'm Thushar Prasanth 
 
-<!--
-**Thusharprasanth/Thusharprasanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate with developers
+- 📫 How to reach me: <a href="thusharprasanth@gmail.com">Mail</a>
 
-Here are some ideas to get you started:
+### Stats
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thusharprasanth&show_icons=true&theme=dark&line_height=27" alt="github stats"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thusharprasanth&theme=dark&hide_langs_below=1" />
+</a>
+
