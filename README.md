@@ -4,7 +4,7 @@
 ### I'm Thushar Prasanth 
 
 - 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning nodeJS
 - 👯 I’m looking to collaborate with developers
 - 📫 How to reach me: thusharprasanth@gmail.com , <a href="https://thusharprasanth.github.io/portfolio/">Portfolio</a> 
 
